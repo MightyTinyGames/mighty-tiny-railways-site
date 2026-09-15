@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mightytinyrailways.com/sitemap.xml
